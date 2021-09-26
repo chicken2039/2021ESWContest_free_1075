@@ -1,0 +1,6 @@
+MainPackage=C:\Users\ayh07\OneDrive - 숭실대학교 - Soongsil University\바탕 화면\Team502main_final\Team502main\bin\ARM\Debug\Team502main_1.0.1.0_ARM_Debug.msix
+SymbolPackage=C:\Users\ayh07\OneDrive - 숭실대학교 - Soongsil University\바탕 화면\Team502main_final\Team502main\obj\ARM\Debug\Symbols\Team502main_1.0.1.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\ayh07\OneDrive - 숭실대학교 - Soongsil University\바탕 화면\Team502main_final\Team502main\bin\ARM\Debug\Team502main_1.0.1.0_scale-100.msix
+ResourcePack=C:\Users\ayh07\OneDrive - 숭실대학교 - Soongsil University\바탕 화면\Team502main_final\Team502main\bin\ARM\Debug\Team502main_1.0.1.0_scale-125.msix
+ResourcePack=C:\Users\ayh07\OneDrive - 숭실대학교 - Soongsil University\바탕 화면\Team502main_final\Team502main\bin\ARM\Debug\Team502main_1.0.1.0_scale-150.msix
+ResourcePack=C:\Users\ayh07\OneDrive - 숭실대학교 - Soongsil University\바탕 화면\Team502main_final\Team502main\bin\ARM\Debug\Team502main_1.0.1.0_scale-400.msix
